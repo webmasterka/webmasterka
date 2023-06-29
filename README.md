@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/4012966/pexels-photo-4012966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://github.com/webmasterka)
+[![MasterHead](https://media.licdn.com/dms/image/C5616AQF9GiGDZrXdZw/profile-displaybackgroundimage-shrink_350_1400/0/1624112055653?e=1693440000&v=beta&t=qT9FwZcXNoXeKtkvp4U5aDHAhp2D3BRg8AiSkzdKJrA)](https://github.com/webmasterka)
 <h1 align="center">Hi 👋, I'm Webmasterka</h1>
 <h3 align="center">A passionate java developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/femalecodertocat.png">
